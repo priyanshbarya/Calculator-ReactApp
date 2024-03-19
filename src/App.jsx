@@ -26,8 +26,14 @@ function App() {
         setResult("error");
       }
     } else {
-      if (result === "0" || result === "error") {
+      if ( result === "error") {
         setResult(clicked);
+      } else if(result === "0"){
+        if(clicked==='+'||clicked==='-'||clicked=='/'||clicked==='*'||clicked==='.'){
+          setResult(result + clicked);
+        }else{
+          setResult(clicked);
+        }
       } else {
         setResult(result + clicked);
       }
