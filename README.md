@@ -2,6 +2,9 @@
 
 This is a simple calculator web application built using React.js, HTML, CSS, and JavaScript.
 
+## Link of the hosting site
+    https://lgmvip-web-task-4-bay.vercel.app/
+
 ## Features
 
 - Performs basic arithmetic operations: addition, subtraction, multiplication, and division.
