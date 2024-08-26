@@ -28,11 +28,4 @@ To run this project locally, follow these steps:
 5. Open your web browser and visit `http://localhost:3000` to view the homepage.
 
 
-## Usage
-1. Fill in the student enrollment form with the required details.
-2. Click on the "Submit" button to enroll the student.
-3. The enrolled student will be added to the list of enrolled students displayed on the webpage.
-4. You can view all enrolled students on the webpage and their respective details.
-
-
 *Author: Priyansh Barya*
